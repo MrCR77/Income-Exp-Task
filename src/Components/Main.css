@@ -1,0 +1,162 @@
+
+input[type='text']{
+    width: 210px;
+    height: 25px;
+    border-radius: 20px;
+    text-align: center;
+    border: 2px solid black;
+    padding:5px;
+    margin: 10px;
+}
+
+#category{
+    width: 210px;
+    height: 35px;
+    border-radius: 20px;
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 10px;
+}
+
+.btn{
+    width: 200px;
+    height: 40px;
+    border-radius: 15px;
+    color: white;
+    background-color: black;
+    /* text-align: center; */
+    /* margin-left: 40px; */
+    padding: 10px;
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+
+.div1{
+    text-align: center;
+}
+
+.div2{
+    text-align: center;
+}
+
+/* .div3{
+    height: 65px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 20px;
+    color: white;
+    border: 2px solid black;
+
+} */
+
+h1{
+    margin-left: 10px;
+}
+
+.income_expense_heading{
+    display: flex;
+    margin-bottom: 10px;
+   
+}
+
+.income{
+    background-color: green;
+    flex-grow: 1;
+    text-align: center;
+    border: 2px solid black;
+    margin-right: 5px;
+    color: white;
+}
+
+.expense{
+    background-color: red;
+    flex-grow: 1;
+    text-align: center;
+    border: 2px solid black;
+    margin-left: 5px;
+    color: white;
+
+}
+
+.income_expense_table{
+    display: flex;
+}
+
+.income_table{
+    flex-grow: 1;
+    margin-right:5px ;
+}
+
+.income_table table{
+    width: 99.3%;
+    border: 2px solid black;
+
+}
+
+.income_table tr{
+    color: white;
+    background-color: green;
+    height: 35px;
+}
+.expense_table{
+    flex-grow: 1;
+    margin-left:5px ;
+
+}
+
+.expense_table table{
+    width: 99.98%;
+    border: 2px solid black;
+
+}
+
+.expense_table tr{
+    color: white;
+    background-color: red;
+    height: 35px;
+}
+
+.total{
+    display: flex;
+    margin-top:15px ;
+}
+
+.total_income{
+    flex-grow: 1;
+    margin-right: 5px;
+    background-color: #230e0e;
+    color: white;
+}
+
+.total_expense{
+    flex-grow: 1;
+    margin-left: 5px;
+    background-color: #230e0e;
+    color: white;
+}
+
+td{
+    text-align: center;
+}
+
+.red{
+    background-color: red;
+    height: 65px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 20px;
+    color: white;
+    border: 2px solid black;
+}
+.totalSaving{
+    background-color: green;
+    height: 65px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-bottom: 20px;
+    color: white;
+    border: 2px solid black;
+}
