@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Income-Exp-Task/static/css/main.76b5ab06.css",
+    "main.js": "/Income-Exp-Task/static/js/main.1f8569c8.js",
+    "static/js/787.084fcb49.chunk.js": "/Income-Exp-Task/static/js/787.084fcb49.chunk.js",
+    "index.html": "/Income-Exp-Task/index.html",
+    "main.76b5ab06.css.map": "/Income-Exp-Task/static/css/main.76b5ab06.css.map",
+    "main.1f8569c8.js.map": "/Income-Exp-Task/static/js/main.1f8569c8.js.map",
+    "787.084fcb49.chunk.js.map": "/Income-Exp-Task/static/js/787.084fcb49.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76b5ab06.css",
+    "static/js/main.1f8569c8.js"
+  ]
+}
